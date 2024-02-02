@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/beckygrey/Projects/Video-Player/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/fddd.dir/source/main.cpp.o -c /home/beckygrey/Projects/Video-Player/source/main.cpp",
+  "file": "/home/beckygrey/Projects/Video-Player/source/main.cpp"
+}
+]

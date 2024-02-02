@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/fddd.dir/source/main.cpp.o -o fddd  -lSDL2 -lavutil -lavformat -lavcodec -lswscale -lswresample -lz -lm 
